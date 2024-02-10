@@ -66,7 +66,7 @@ This repository contains Jupyter Notebook files for predicting the damage grade 
 
 ## Authors
 
-Aswathi 
+Aswathi T S and 
 Akhil Sebastian
 
 ## Acknowledgments
