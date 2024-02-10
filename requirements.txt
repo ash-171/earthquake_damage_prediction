@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn>=1.2.2
+keras
+catboost
+lightgbm
+xgboost
+tensorflow
+autoviz
+keras-tuner
+imblearn
+category_encoders
